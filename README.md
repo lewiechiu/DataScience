@@ -2,10 +2,5 @@
 
 This README.md keeps track of the weekly progress of the course, including HW and in-class activities.
 
-## HW1
-### Task: 
- 1. do some basic E.D.A. (Exploratory Data Analysis) on a customer call record. 
- 2. Try to explain some effects or stories for later use.
- 
-### Material Read:
-  1. Pandas, numpy Doc.
+## Final Project Presentation slides
+https://docs.google.com/presentation/d/1DLqVwZqWjiO6orNfuKZ9RoMHS8fYDNn8dA1WaFiVf9M/edit#slide=id.g5bd98a5b3a_0_10
